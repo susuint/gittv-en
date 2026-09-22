@@ -1,9 +1,9 @@
 # 📺 IPTV Playlist Generator (High Quality - Auto Refresh)
 
 ![Status](https://github.com/susuint/gittv-en/actions/workflows/update-playlist-public.yml/badge.svg)
-![Channels](https://img.shields.io/badge/channels-3184-success)
+![Channels](https://img.shields.io/badge/channels-3162-success)
 ![Quality](https://img.shields.io/badge/quality-1080p+-blue)
-![Last Updated](https://img.shields.io/badge/updated-2026-09-21%2023:53%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/updated-2026-09-22%2013:58%20UTC-blue)
 
 ## 🚀 URL Playlist Chất Lượng Cao
 
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/susuint/gittv-en/main/playlist.m3u
 - ✅ **Chất lượng:** Tất cả kênh ≥ 1080p (FHD/4K)
 - ⚡ **Tốc độ:** Ping ≤ 3400ms (nhanh hơn 15%)
 - 🚫 **Loại bỏ:** Bangladesh, Belarus, Costa Rica, India, Mexico, Laos
-- 🎯 **Tổng số kênh:** 3184 kênh được tuyển chọn
+- 🎯 **Tổng số kênh:** 3162 kênh được tuyển chọn
 
 ### Hướng dẫn sử dụng
 1.  **Sao chép** đường link trên.
